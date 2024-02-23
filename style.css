@@ -5,6 +5,7 @@
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
+}
 
 
  body {
@@ -28,4 +29,3 @@
         width: 100%;
         font-size: 32px;
     }
-    
